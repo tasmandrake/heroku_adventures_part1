@@ -1,8 +1,8 @@
-#Heroku Adventures Part 1!
+# Heroku Adventures Part 1!
 
-##Misson: Find the Heroku error and resolve it.
+## Misson: Find the Heroku error and resolve it.
 
-##Directions
+## Directions
 1. Fork and clone this repo.
 2. npm install
 3. Deploy the project with Heroku
@@ -10,5 +10,5 @@
   * (Heroku Troubleshooting Docs) [https://devcenter.heroku.com/categories/nodejs]
   * heroku logs --tail
   
-May the Force be with You! :lightsabers:
+May the Force be with You!
   
