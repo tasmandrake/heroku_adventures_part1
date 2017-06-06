@@ -2,10 +2,9 @@
   "name": "node-js-getting-started",
   "version": "0.2.6",
   "description": "A sample Node.js app using Express 4",
-
   "main": "app.js",
   "scripts": {
-    "start": "npm start"
+    "start": "node server.js"
   },
   "dependencies": {
     "ejs": "2.5.6",
